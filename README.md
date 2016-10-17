@@ -24,6 +24,13 @@ All of the code is organized into folders. Each folder starts with a number foll
 	</body>
 </html>
 ```
+###Hardware and Software:
+
+| Chapter No. | Hardware | Software | Download Link |
+| ----------- | -------- | -------- | ------------- |
+| 1 | RAM: 8 GB | Java IDE | [Click Hare](https://ga-dev-tools.appspot.com/campaign-url-builder/) |
+| 2 | RAM: 8 GB | Java IDE | [Click Hare](https://ga-dev-tools.appspot.com/campaign-url-builder/) |
+| 3 | RAM: 8 GB | Java IDE | [Click Hare](https://ga-dev-tools.appspot.com/campaign-url-builder/) |
 
 ###Related Java Products 
 
